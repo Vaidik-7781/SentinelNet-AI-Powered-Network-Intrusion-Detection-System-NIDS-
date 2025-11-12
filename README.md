@@ -73,4 +73,4 @@ Results can be stored in CSV, text files, or displayed through a dashboard inter
 
   # Author
 Vaidik Gupta
-AI-Powered Network Intrusion Detection System (SentinelNet)
+
